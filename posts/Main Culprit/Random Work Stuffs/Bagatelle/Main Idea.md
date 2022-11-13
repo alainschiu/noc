@@ -1,0 +1,6 @@
+### Idea
+A bagatelle of objects I: If I could talk about it in other ways, I would_ is a sound installation created for specific objects about our displacement. Displacement refers to the separation of a subject from the object(s); separation of time from space; separation of one space from another; separation of reality and fiction; separation of sense from sensibility. These lonely objects are left in situ, making sounds of their own accord in seemingly erratic sequences. This duality/ separation becomes a false proposition when they melt into an entangled mess of a soundscape, however separated.
+
+
+### Implementation
+Sounds from the collected objects (each on their own sequence, controlled by digital timer relay) are picked up by shotgun microphones. These sounds are amplified, mixed and transformed into an ever-changing soundscape that lasts for approximately three minutes. When each bagatelles ends, the speakers will cease relaying amplified signals, leaving behind room and ambient sounds. After the brief silence, another new, self-generating bagatelle begins.
